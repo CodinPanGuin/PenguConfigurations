@@ -4,11 +4,11 @@ Welcome to the readme file for the PenguConfigurations page. Here, you will find
 
 ## Table of Contents
 
-- [Linux](./Linux/home/)
-  - [Bash](./Linux/TableOfContetns/bash.md)
-  - [NANO](./Linux/TableOfContents/NANO.md)
-  - [neomutt](./Linux/TableOfContents/neomutt.md)
-  - [kitty](./Linux/TableOfContents/kitty.md)
-- [Obsidian](./obsidian/obsidian.md)
+- [Linux](Linux/)
+  - [Bash](Linux/TableOfContetns/bash.md)
+  - [NANO](Linux/TableOfContents/NANO.md)
+  - [neomutt](Linux/TableOfContents/neomutt.md)
+  - [kitty](Linux/TableOfContents/kitty.md)
+- [Obsidian](obsidian/obsidian.md)
 
-
+Linux/TableOfContetns/bash.md
