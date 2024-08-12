@@ -5,7 +5,7 @@ Welcome to the readme file for the PenguConfigurations page. Here, you will find
 ## Table of Contents
 
 - [Linux](Linux/)
-  - [Bash](Linux/TableOfContetns/bash.md)
+  - [Bash](Linux/TableOfContents/bash.md)
   - [NANO](Linux/TableOfContents/NANO.md)
   - [neomutt](Linux/TableOfContents/neomutt.md)
   - [kitty](Linux/TableOfContents/kitty.md)
