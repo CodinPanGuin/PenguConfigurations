@@ -10,5 +10,3 @@ Welcome to the readme file for the PenguConfigurations page. Here, you will find
   - [neomutt](Linux/TableOfContents/neomutt.md)
   - [kitty](Linux/TableOfContents/kitty.md)
 - [Obsidian](obsidian/obsidian.md)
-
-Linux/TableOfContetns/bash.md
