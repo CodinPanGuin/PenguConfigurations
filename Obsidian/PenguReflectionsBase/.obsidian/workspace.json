@@ -11,8 +11,12 @@
             "id": "2ab932e41551f3eb",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "99-Meta/00-WhatIsMeta.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -95,6 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "99-Meta/00-WhatIsMeta.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,6 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "99-Meta/00-WhatIsMeta.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -132,7 +138,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "99-Meta/00-WhatIsMeta.md"
+              }
             }
           }
         ]
@@ -154,17 +162,19 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "988654a623e09af8",
+  "active": "2ab932e41551f3eb",
   "lastOpenFiles": [
-    "05-Archives/00-ThatAreArchives.ms",
-    "04-OnGoingProjects/00-WhatAreOnGoingProjects.md",
-    "02-Resources/00-WhatAreResources.ms",
-    "01-LearningSpaces/01-WhatAreLearningSpaces.md",
     "99-Meta/00-WhatIsMeta.md",
     "06-Daily/00-WhatToDoWithDaily.md",
+    "05-Archives/00-ThatAreArchives.md",
+    "04-OnGoingProjects/00-WhatAreOnGoingProjects.md",
     "03-ProjectsToBeDone/00-ProjectsToBeDone.md",
-    "01-LearningSpaces/01-WhatAreLearningSpaces",
+    "02-Resources/00-WhatAreResources.md",
+    "01-LearningSpaces/01-WhatAreLearningSpaces.md",
     "00-MapStruct/00-WhatIsMapStruct.md",
+    "05-Archives/00-ThatAreArchives.ms",
+    "02-Resources/00-WhatAreResources.ms",
+    "01-LearningSpaces/01-WhatAreLearningSpaces",
     "99-Meta",
     "06-Daily",
     "05-Archives",
@@ -172,7 +182,6 @@
     "03-ProjectsToBeDone",
     "02-Resources",
     "01-LearningSpaces",
-    "00-MapStruct",
     "Welcome.md"
   ]
 }
