@@ -9,4 +9,4 @@ Welcome to the readme file for the PenguConfigurations page. Here, you will find
   - [NANO](Linux/TableOfContents/NANO.md)
   - [neomutt](Linux/TableOfContents/neomutt.md)
   - [kitty](Linux/TableOfContents/kitty.md)
-- [Obsidian](obsidian/)
+- [Obsidian](Obsidian/PenguConfigurations/)
